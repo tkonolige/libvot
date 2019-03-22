@@ -38,6 +38,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <vector>
 #include <thread>
 #include <mutex>
+#include <functional>
 
 #include "gflags/gflags.h"
 #include "glog/logging.h"
